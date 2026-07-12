@@ -305,6 +305,5 @@ int main()
                 printf("Número inválido\n");
         }
     } while (menu != 6);
-
     return 0;
 }
